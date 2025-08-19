@@ -194,18 +194,6 @@ section h2 {
     font-weight: normal;
 }
 
-@media (max-width: 768px) {
-    .producto > div {
-        flex-direction: column;
-        align-items: center;
-    }
-
-    .producto img {
-        width: 100%;
-        max-width: 300px;
-        height: auto;
-    }
-}
 
 /* MISIÓN Y VISIÓN */
 .titulo-mision, .titulo-vision {
